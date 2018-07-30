@@ -2,7 +2,7 @@ package lista1.exercicio1;
 
 import java.util.Scanner;
 
-public class MediaBimestral {
+public class Ex4MediaBimestral {
 	public static void main(String [] args) {
 		float [] nota = new float [4];
 		float media=0;

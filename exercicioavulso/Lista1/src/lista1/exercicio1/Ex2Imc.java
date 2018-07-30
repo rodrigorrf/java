@@ -2,7 +2,7 @@ package lista1.exercicio1;
 
 import java.util.Scanner;
 
-public class Imc {
+public class Ex2Imc {
 	public static void main(String[] args) {
 		float altura;
 		float peso;

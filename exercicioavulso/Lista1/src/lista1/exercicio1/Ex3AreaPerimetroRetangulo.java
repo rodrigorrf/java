@@ -2,7 +2,7 @@ package lista1.exercicio1;
 
 import java.util.Scanner;
 
-public class AreaPerimetroRetangulo {
+public class Ex3AreaPerimetroRetangulo {
 	public static void main (String [] args) {
 		float area;
 		float comprimento;

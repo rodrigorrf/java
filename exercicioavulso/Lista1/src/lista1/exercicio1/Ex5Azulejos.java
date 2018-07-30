@@ -2,7 +2,7 @@ package lista1.exercicio1;
 
 import java.util.Scanner;
 
-public class Azulejos5 {
+public class Ex5Azulejos {
 
 	public static void main(String[] args) {
 		float hp=0; //altura da parede

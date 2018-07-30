@@ -2,7 +2,7 @@ package lista1.exercicio1;
 
 import java.util.Scanner;
 
-public class DolarEmReal {
+public class Ex1DolarEmReal {
 
 	public static void main(String[] args) {
 		double dolar = 0;
