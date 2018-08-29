@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Ex6Imposto {
 
 	public static void main(String[] args) {
-		Exe6ImpostoClass imposto = new Exe6ImpostoClass();
+		Ex6ImpostoClass imposto = new Ex6ImpostoClass();
 		Scanner inp = new Scanner(System.in);
 		
 		System.out.println("Digite a área total do terreno:");

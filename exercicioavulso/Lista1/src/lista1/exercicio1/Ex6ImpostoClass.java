@@ -1,6 +1,6 @@
 package lista1.exercicio1;
 
-public class Exe6ImpostoClass {
+public class Ex6ImpostoClass {
 	private static double impConstruido;
 	private static double impNaoConstruido;
 	private double areaTotal;
@@ -14,7 +14,7 @@ public class Exe6ImpostoClass {
 
 
 	public static void setImpConstruido(double impConstruido) {
-		Exe6ImpostoClass.impConstruido = impConstruido;
+		Ex6ImpostoClass.impConstruido = impConstruido;
 	}
 
 
@@ -26,7 +26,7 @@ public class Exe6ImpostoClass {
 
 
 	public static void setImpNaoConstruido(double impNaoConstruido) {
-		Exe6ImpostoClass.impNaoConstruido = impNaoConstruido;
+		Ex6ImpostoClass.impNaoConstruido = impNaoConstruido;
 	}
 
 
